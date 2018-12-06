@@ -1,7 +1,7 @@
 {
   "name": "ember-power-calendar",
-  "version": "0.9.2",
-  "description": "Powerful and customizable calendar component for Ember",
+  "version": "0.9.3-pre",
+  "description": "Powerful and customizable calendar component for Ember - Forked from http://github.com/cibernox/ember-power-calendar",
   "scripts": {
     "build": "ember build",
     "lint:js": "eslint .",
@@ -63,10 +63,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/cibernox/ember-power-calendar.git"
+    "url": "http://github.com/happycollision/ember-power-calendar.git"
   },
   "license": "MIT",
-  "author": "Miguel Camba",
+  "author": "Don Denton",
   "directories": {
     "doc": "doc",
     "test": "tests"
